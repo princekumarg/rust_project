@@ -13,7 +13,7 @@ fn main() {
     println!("your shadowing number is {app}");*/
     //***main concept of shadowing***//
     let x=32;
-    let x=x+1;
+    let x=x+1;J
     {
         let x=x*2;
         println!("your inner number is:{x}");
